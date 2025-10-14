@@ -1,7 +1,6 @@
 ## Hi there 👋, Im Karol!
 
 🔭 I’m currently working on autonomous robots  
-🌱 I’m learning ROS 2
 
 Here are my stats!
 
