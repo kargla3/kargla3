@@ -1,9 +1,5 @@
 ## Hi there 👋, Im Karol!
 
-🔭 I’m currently working on autonomous robots  
-
-Here are my stats!
-
 ## 🔥 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kargla3&layout=compact)
 
